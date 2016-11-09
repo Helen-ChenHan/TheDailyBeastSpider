@@ -1,1 +1,3 @@
 # TheDailyBeastSpider
+
+scrapy crawl beast
